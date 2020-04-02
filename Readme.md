@@ -4,3 +4,4 @@ I could not find it on Internet anymore so I managed to find an old save on a de
 
 Possible future update:
 - Manage a reboot when the map crash a server
+- Porting to Python 3
